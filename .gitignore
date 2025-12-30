@@ -1,1 +1,7 @@
+# external files
 Tobias\ Erichsen/**
+# main executable
+MIDiWay 
+
+# cmake logic etc
+**/build/**
