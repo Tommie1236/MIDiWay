@@ -1,6 +1,4 @@
 
-
-
 cd Code
 
 mkdir -p build
